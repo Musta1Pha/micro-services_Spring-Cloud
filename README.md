@@ -20,24 +20,29 @@ En ce qui concerne la configuration dynamique, elle est mise en œuvre par la cr
 <h5>L'utilisation du fichier application.yml</h5>
 
 ![appl yml_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/4174d19b-0242-4881-aa1e-f924540abd38)
+
 ![app ymlEx_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/7db27b58-1697-4a2c-987d-f7d38df0c8d7)
 
 
 <h5>L'utilisation du Java Config Class</h5>
 
 ![javaconfigClass_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/281c479c-c054-4a43-b951-e9a5c5be8f80)
+
 ![javaconfigClassEx_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/1d5a253a-0bc9-4fe8-ae4b-095ae6f03128)
 
 
 <h5>Configuration Dynamique + création du micorservice Discovery</h5>
 
 ![discovery_micorservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/676c307b-e906-402c-999a-95e775d86b7b)
+
 ![ConfigDynamique_micorservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/9ed7ac88-9797-4360-9bd0-e31b83360a29)
 
 ![Eureka_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/77d57bfe-d983-48e1-b326-3bd9661cfa99)
+
 ![Customer_Dynamique_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/1ab07f4d-a0fd-48d3-a052-9d4357de24f7)
 
 <h3>Création du micro service billing</h3>
+
 ![billing_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/1434e5cd-39cf-49d7-b2f6-e27c420efdc9)
 
 
