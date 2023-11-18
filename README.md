@@ -18,16 +18,19 @@ La configuration statique peut être subdivisée en deux méthodes : la créatio
 En ce qui concerne la configuration dynamique, elle est mise en œuvre par la création d'un service de Eureka Discovery Service. Cela implique l'utilisation des noms de services pour connaître l'adresse et le port de chacun des services nécessaires.</h4>
 
 <h5>L'utilisation du fichier application.yml</h5>
+
 ![appl yml_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/4174d19b-0242-4881-aa1e-f924540abd38)
 ![app ymlEx_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/7db27b58-1697-4a2c-987d-f7d38df0c8d7)
 
 
 <h5>L'utilisation du Java Config Class</h5>
+
 ![javaconfigClass_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/281c479c-c054-4a43-b951-e9a5c5be8f80)
 ![javaconfigClassEx_microservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/1d5a253a-0bc9-4fe8-ae4b-095ae6f03128)
 
 
 <h5>Configuration Dynamique + création du micorservice Discovery</h5>
+
 ![discovery_micorservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/676c307b-e906-402c-999a-95e775d86b7b)
 ![ConfigDynamique_micorservice](https://github.com/Musta1Pha/micro-services_Spring-Cloud/assets/91842692/9ed7ac88-9797-4360-9bd0-e31b83360a29)
 
